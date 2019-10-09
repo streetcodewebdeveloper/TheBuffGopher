@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TheBuffGopher</title>
+  <id></id>
+  <link href="" />
+  <link href="/atom.xml" rel="self" />
+  <updated>2019-10-08T09:08:28-07:00</updated>
+  <rights>Copyright 2014, Linus Chan</rights>
+  <author>
+    <name>Linus Chan</name>
+  </author>
+  
+    <entry>
+      <title>1: Marking down w/ Github </title>
+      <link href="/2019/10/04/going-back-2013/" />
+      <summary type="html">&lt;p&gt;Goal: Creating a Github Account to host your own personal website&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Access &lt;strong&gt;Github.com&lt;/strong&gt; and select Sign In
+&lt;img src=&quot;/assets/img/Lesson1/l1.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sign in with your own credentials or the StreetCode credentials that should be provided for.
+&lt;img src=&quot;/assets/img/Lesson1/l2.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the green New button on the top-left create a new repository.
+&lt;img src=&quot;/assets/img/Lesson1/l3.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enter your name as the repository name
+&lt;img src=&quot;/assets/img/Lesson1/l4.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select Create Repository
+&lt;img src=&quot;/assets/img/Lesson1/l5.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Settings tab
+&lt;img src=&quot;/assets/img/Lesson1/l6.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scroll down to the GitHub Pages section and select the Choose a Theme button
+&lt;img src=&quot;/assets/img/Lesson1/l7.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select a theme that you’d like for your personal website.
+&lt;img src=&quot;/assets/img/Lesson1/l8.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Select Theme button
+&lt;img src=&quot;/assets/img/Lesson1/l9.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Commit Changes button
+&lt;img src=&quot;/assets/img/Lesson1/l10.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Settings tab and scroll to the GitHub Pages section
+&lt;img src=&quot;/assets/img/Lesson1/l11.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Streetcode URL to visit your new website!
+&lt;img src=&quot;/assets/img/Lesson1/l12.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+      <id>/2019/10/04/going-back-2013/</id>
+      <updated>2019-10-04T09:57:51-07:00</updated>
+      <author>
+        <name>Linus Chan</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>2: Marking down with Github </title>
+      <link href="/2019/10/04/going-back-20130/" />
+      <summary type="html">&lt;p&gt;Goal: Creating a Github Account to host your own personal website&lt;/p&gt;
+
+&lt;p&gt;Let’s do some thinking and see what this lesson is about.&lt;/p&gt;
+
+&lt;p&gt;I think part of it is around figuring out how we kind of look at problems and tackle things like who we are and what we are supposed to do.&lt;/p&gt;
+
+&lt;p&gt;First things first, we need to figure out how to edit the text on our website.
+We also want to start teaching people how to use markdown appropriately.&lt;/p&gt;
+
+&lt;p&gt;This is focusing on the syntax of things, the way that we edit it and the principles behind markdown and what it is.&lt;/p&gt;
+
+&lt;p&gt;Right now we’re trying to allow students to feel aquainted with environment before stepping into deeper things and more complicated things.sdasflkjsdflksjdfsdflkj this is a little
+this jkdljsfisjdf this is dfsthis is a little annoyti this is isn’ annoying ahh peace. It’s so much better now! 
+I wouldn’t say that we’re trying to pursue anything that isn’t impossible&lt;/p&gt;
+
+&lt;p&gt;Principles here.dfs this is not work&lt;/p&gt;
+
+&lt;p&gt;We’re teaching students how to use markdown.&lt;/p&gt;
+
+&lt;p&gt;Then we’re teaching them how to kind of interpret what a commit is. How we plan to update information and teach them the practice of pushing information to the cloud.&lt;/p&gt;
+
+&lt;p&gt;After that, we’re looking at how students are supposed to look at other things like&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Access &lt;strong&gt;Github.com&lt;/strong&gt; and select Sign In
+&lt;img src=&quot;/assets/img/Lesson1/l1.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sign in with your own credentials or the StreetCode credentials that should be provided for.
+&lt;img src=&quot;/assets/img/Lesson1/l2.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the green New button on the top-left create a new repository.
+&lt;img src=&quot;/assets/img/Lesson1/l3.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Enter your name as the repository name
+&lt;img src=&quot;/assets/img/Lesson1/l4.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select Create Repository
+&lt;img src=&quot;/assets/img/Lesson1/l5.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Settings tab
+&lt;img src=&quot;/assets/img/Lesson1/l6.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scroll down to the GitHub Pages section and select the Choose a Theme button
+&lt;img src=&quot;/assets/img/Lesson1/l7.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select a theme that you’d like for your personal website.
+&lt;img src=&quot;/assets/img/Lesson1/l8.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Select Theme button
+&lt;img src=&quot;/assets/img/Lesson1/l9.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Commit Changes button
+&lt;img src=&quot;/assets/img/Lesson1/l10.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Settings tab and scroll to the GitHub Pages section
+&lt;img src=&quot;/assets/img/Lesson1/l11.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the Streetcode URL to visit your new website!
+&lt;img src=&quot;/assets/img/Lesson1/l12.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</summary>
+      <id>/2019/10/04/going-back-20130/</id>
+      <updated>2019-10-04T06:57:51-07:00</updated>
+      <author>
+        <name>Linus Chan</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>3: Jamming with Jekyll</title>
+      <link href="/2014/01/05/perception-of-design/" />
+      <summary type="html">&lt;p&gt;His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor’s recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy.&lt;/p&gt;
+
+&lt;p&gt;And what’s more, would he have been entirely wrong in this case? Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. “What’s happened to me? “ he thought. It wasn’t a dream.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Conceptualising is hard because it requires to shut down our graphic imagination and stay focused on the big picture. Principles and data over layout and typeface.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.&lt;/p&gt;
+
+&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;
+</summary>
+      <id>/2014/01/05/perception-of-design/</id>
+      <updated>2014-01-05T07:57:51-08:00</updated>
+      <author>
+        <name>Linus Chan</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>4: HTML UP</title>
+      <link href="/2014/01/05/perception-of-design0/" />
+      <summary type="html">&lt;p&gt;His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor’s recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy.&lt;/p&gt;
+
+&lt;p&gt;And what’s more, would he have been entirely wrong in this case? Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. “What’s happened to me? “ he thought. It wasn’t a dream.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Conceptualising is hard because it requires to shut down our graphic imagination and stay focused on the big picture. Principles and data over layout and typeface.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.&lt;/p&gt;
+
+&lt;p&gt;It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather. Drops of rain could be heard hitting the pane, which made him feel quite sad.&lt;/p&gt;
+</summary>
+      <id>/2014/01/05/perception-of-design0/</id>
+      <updated>2014-01-05T05:57:51-08:00</updated>
+      <author>
+        <name>Linus Chan</name>
+      </author>
+    </entry>
+  
+</feed>

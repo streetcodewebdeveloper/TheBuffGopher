@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "2: Marking down with Github "
+date:   2019-10-04 13:57:51
+---
+Goal: Creating a Github Account to host your own personal website
+
+
+Let's do some thinking and see what this lesson is about.
+
+I think part of it is around figuring out how we kind of look at problems and tackle things like who we are and what we are supposed to do.
+
+First things first, we need to figure out how to edit the text on our website.
+We also want to start teaching people how to use markdown appropriately.
+
+This is focusing on the syntax of things, the way that we edit it and the principles behind markdown and what it is.
+
+Right now, we're just trying to get students aquainted with curriculum. I'm kind of mirroring the lessons through Josh's experience learning how to build a website and applying for a position at Oculus Rift.
+
+I wouldn't say that we're trying to pursue anything that isn't impossible. Like we've 100% done this.
+However, I guess the importance here is learning how to level set with others what the importance of building things out really is.
+
+We're also trying to build principles of exploration here. Students should feel empowered with the technology to feel capable and ready to accomplish anything that they want to. I also feel that it might be difficult to really internalize what it means to approach things with the right mental state. People aren't easy to please. They all have varying goals and honestly, I don't know what I can do to level set with them and what they need to do and what they don't need to do.
+
+
+Principles here.dfs this is not work
+
+We're teaching students how to use markdown.
+
+Then we're teaching them how to kind of interpret what a commit is. How we plan to update information and teach them the practice of pushing information to the cloud.
+
+After that, we're looking at how students are supposed to look at other things like
+
+
+
+1. Access **Github.com** and select Sign In
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l1.png">
+
+2. Sign in with your own credentials or the StreetCode credentials that should be provided for.
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l2.png">
+
+3. Select the green New button on the top-left create a new repository.
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l3.png">
+
+4. Enter your name as the repository name
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l4.png">
+
+5. Select Create Repository
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l5.png">
+
+6. Select the Settings tab
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l6.png">
+
+7. Scroll down to the GitHub Pages section and select the Choose a Theme button
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l7.png">
+
+8. Select a theme that you’d like for your personal website.
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l8.png">
+
+9. Select the Select Theme button
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l9.png">
+
+10. Select the Commit Changes button
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l10.png">
+
+11. Select the Settings tab and scroll to the GitHub Pages section
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l11.png">
+
+12. Select the Streetcode URL to visit your new website!
+<img src="{{ site.baseurl }}/assets/img/Lesson1/l12.png">
