@@ -8,7 +8,7 @@ description: "Web Development - Streetcode Curriculum"
 author: "Linus Chan"
 
 url: ""
-baseurl: ""/TheBuffGopher
+baseurl: "/TheBuffGopher"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Lead Teacher for Streetcode"
